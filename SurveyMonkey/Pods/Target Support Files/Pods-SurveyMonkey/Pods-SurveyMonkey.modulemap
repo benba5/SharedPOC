@@ -1,0 +1,6 @@
+framework module Pods_SurveyMonkey {
+  umbrella header "Pods-SurveyMonkey-umbrella.h"
+
+  export *
+  module * { export * }
+}
